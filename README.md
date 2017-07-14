@@ -1,1 +1,1 @@
-# Docker for armhf
+# Docker for arm64/aarch64
