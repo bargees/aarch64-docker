@@ -1,5 +1,5 @@
-GITHASH := cec0b72
-VERSION := 17.06.2-ce
+GITHASH := afdb6d4
+VERSION := 17.09.0-ce
 
 ARCHIVE := docker-$(VERSION).tgz
 HASH    := docker-$(VERSION).hash
